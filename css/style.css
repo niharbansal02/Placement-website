@@ -6,7 +6,7 @@
 .stats{
   margin: 10px 100px;
   height: 600px;
-  width: 1000px;
+  width: 1100px;
 }
 
 .hero_bg{
@@ -24,6 +24,13 @@
 
 .card1{
   background-image: url('../images/SWD_4192_resized.jpg');
+  height: 550px;
+  width: 1280px;
+  padding-bottom: 10px;
+}
+
+.card1si{
+  background-image: url('../images/SWD_0893_resized.jpg');
   height: 550px;
   width: 1280px;
   padding-bottom: 10px;
@@ -61,13 +68,14 @@ table { border-collapse: separate; }
 }
 
 .stats_cell{
+  background-color: papayawhip;
   font-size: 20px;
   height: 250px;
   width: 250px;
   border: 5px solid black;
-  padding: 40px 90px;
+  padding: 50px 60px;
   margin: 50px;
-  border-radius: 125px;
+  border-radius: 500px;
 }
 
 .rank_cell{
@@ -102,13 +110,13 @@ table { border-collapse: separate; }
 
 .content{
   font-size: 25px;
-  padding: 20px 50px;
+  padding: 20px auto;
   color: black;
 }
 
 
 .card2 img{
-  height: 450px;
+  height: 400px;
   width: 400px;
 }
 .card1 h1{
