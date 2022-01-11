@@ -89,6 +89,7 @@ table { border-collapse: separate; }
   margin: 0 200px;
   border: 2px solid salmon;
   border-radius: 10px;
+  text-align: center;
 }
 
 .content{
