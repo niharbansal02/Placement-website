@@ -81,14 +81,16 @@ table { border-collapse: separate; }
 }
 
 .card_head{
+  font-size: 50px;
   padding: 20px 0 10px 50px;
 }
 
 .content{
-  padding-left: 50px;
-  padding-right: 50px;
+  font-size: 25px;
+  padding: 20px 50px;
   color: black;
 }
+
 
 .card2 img{
   height: 450px;
