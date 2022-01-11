@@ -87,7 +87,7 @@ table { border-collapse: separate; }
 
 .eng_cell{
   margin: 0 200px;
-  border: 2px solid salmon;
+  border: 2px solid #f67e7d;
   border-radius: 10px;
   text-align: center;
 }
